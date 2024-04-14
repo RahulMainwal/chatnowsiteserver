@@ -4,7 +4,8 @@
   "description": "An Express-based application skeleton",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon app.js",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
   },
   "dependencies": {
     "bcrypt": "^5.1.0",
